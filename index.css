@@ -1,6 +1,7 @@
 button {
     background: linear-gradient(lightgreen, green);
-    border: 5px dotted black;
+    border: 5px solid black;
+    font-size: 30px;
 }
 
 body {
